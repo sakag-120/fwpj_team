@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T06:59:45.063Z" agent="5.0 (Windows)" etag="341AlwpDvOI3MIaRj9Cy" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-24T08:29:57.346Z" agent="5.0 (Windows)" etag="n7D4pGlI6ZqGCeYDtwnn" version="13.3.5" type="github">
   <diagram name="Page-1" id="19d8dcba-68ad-dc05-1034-9cf7b2a963f6">
     <mxGraphModel dx="1029" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -55,25 +55,25 @@
           <mxGeometry x="1910" y="540" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="218ae93e1282097f-8" value="&lt;b&gt;&lt;span&gt;日高 美鈴&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;PL assistant&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="195" y="210" width="210" height="50" as="geometry" />
+          <mxGeometry x="270" y="220" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="218ae93e1282097f-9" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fillColor=#CCCCCC;fontFamily=Verdana;align=center;strokeColor=none;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="219" y="220" width="24" height="30" as="geometry" />
+          <mxGeometry x="296" y="230" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6257edae8c83ed4a-9" value="田辺 奨悟&lt;br&gt;&lt;div&gt;&lt;span&gt;Project Leader&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="521" y="210" width="200" height="50" as="geometry" />
+          <mxGeometry x="521" y="190" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6257edae8c83ed4a-10" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fillColor=#CCCCCC;fontFamily=Verdana;align=center;strokeColor=none;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="540" y="220" width="24" height="30" as="geometry" />
+          <mxGeometry x="540" y="200" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6257edae8c83ed4a-21" value="坂口 裕宜　　　　&lt;br&gt;&lt;div&gt;&lt;span&gt;Team Leader　　&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;System developper　&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=right;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="500" y="320" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6257edae8c83ed4a-12" value="内田&lt;span&gt; 幸喜&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;st&quot;&gt;Steering Committee&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="785" y="170" width="245" height="50" as="geometry" />
+          <mxGeometry x="830" y="130" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6257edae8c83ed4a-13" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fillColor=#CCCCCC;fontFamily=Verdana;align=center;strokeColor=none;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="805" y="180" width="24" height="30" as="geometry" />
+          <mxGeometry x="850" y="140" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O4vK7DTb7aEN-kUjmdhn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="6257edae8c83ed4a-1" target="6257edae8c83ed4a-9">
           <mxGeometry relative="1" as="geometry">
@@ -84,16 +84,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6257edae8c83ed4a-1" value="清原 聡&lt;br&gt;&lt;div&gt;&lt;span&gt;Project Manager&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="526" y="120" width="200" height="50" as="geometry" />
+          <mxGeometry x="526" y="80" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6257edae8c83ed4a-2" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fillColor=#CCCCCC;fontFamily=Verdana;align=center;strokeColor=none;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="540" y="130" width="24" height="30" as="geometry" />
+          <mxGeometry x="540" y="90" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="218ae93e1282097f-2" value="&lt;div&gt;池田 康隆&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;st&quot;&gt;Steering Committee&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="785" y="120" width="240" height="50" as="geometry" />
+          <mxGeometry x="830" y="80" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="218ae93e1282097f-3" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fillColor=#CCCCCC;fontFamily=Verdana;align=center;strokeColor=none;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="800" y="131" width="24" height="30" as="geometry" />
+          <mxGeometry x="845" y="91" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="218ae93e1282097f-5" value="Name&lt;div&gt;&lt;span&gt;Position&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1637" y="330" width="200" height="50" as="geometry" />
@@ -156,13 +156,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O4vK7DTb7aEN-kUjmdhn-33" value="方針・課題共有" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="280" width="100" height="20" as="geometry" />
+          <mxGeometry x="625" y="260" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O4vK7DTb7aEN-kUjmdhn-34" value="都度進捗報告" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="80" height="20" as="geometry" />
+          <mxGeometry x="646" y="145" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O4vK7DTb7aEN-kUjmdhn-35" value="タスク指示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="210" width="70" height="20" as="geometry" />
+          <mxGeometry x="430" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O4vK7DTb7aEN-kUjmdhn-38" value="&lt;div&gt;進捗完了確認&lt;br&gt;&lt;/div&gt;&lt;div&gt;次ステップ進行許可&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="617" y="290" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O4vK7DTb7aEN-kUjmdhn-40" value="進捗完了承認" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O4vK7DTb7aEN-kUjmdhn-41" value="都度進捗報告" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O4vK7DTb7aEN-kUjmdhn-42" value="状況報告" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="735" y="80" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
